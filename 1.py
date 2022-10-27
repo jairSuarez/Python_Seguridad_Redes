@@ -1,4 +1,6 @@
 '''
+Nombre: Jair Alfonso Suárez Flores
+
 1- Definir una función max() que tome como 
 argumento dos números y devuelva el mayor de ellos. 
 '''
