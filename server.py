@@ -1,5 +1,3 @@
-from email import message
-from http import client
 import socket
 
 serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
